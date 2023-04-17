@@ -6,7 +6,7 @@ export default function Home()
   return (
     <>
     
-      <div className="flex flex-row justify-center items-center w-full h-full bg-pink-200 p-10">
+      <div className="flex flex-row justify-center items-center w-full h-full bg-pink-200 p-10 drop-shadow-xl">
         <div className="w-2/3 h-64 bg-gradient-to-r from-pink-300 to-pink-200 drop-shadow-xl rounded-full text-center transition-all duration-300">
           <h1 className="p-20 tracking-wide text-8xl font-bold text-white uppercase drop-shadow-lg">Hi Beautiful</h1>
         </div>
@@ -28,7 +28,11 @@ export default function Home()
           <img src='https://sweezy-cursors.com/wp-content/uploads/cursor/milk-amp-mocha-bear-love/milk-mocha-bear-love-custom-cursor.png' width={600}/>
           <h1 className='w-1/3 text-pink-300 font-bold text-6xl'>Someone For</h1>
         </div>
-        <h1 className="w-full h-1/4 text-pink-300 font-bold text-6xl">PROM</h1>
+        <h1 className="w-full h-1/4 text-pink-300 font-bold text-6xl uppercase">prom</h1>
+      </div>
+
+      <div className="text-center w-full h-64 bg-pink-200 drop-shadow-xl">
+        <h1 className="p-20 tracking-wide text-6xl font-bold text-pink-400 uppercase drop-shadow-xl">So...</h1>
       </div>
     
     </>

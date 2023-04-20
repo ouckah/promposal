@@ -55,7 +55,7 @@ export default function Home()
       </div>
 
       <CornyQuestion 
-        question="Would you be the Elephant's Foot to my Chernobyl Disaster?"
+        question="Would you be the Elephant&apos;s Foot to my Chernobyl Disaster?"
         nonactive="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuclear_symbol.svg/1024px-Nuclear_symbol.svg.png"
         active="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/76629/nuclear-explosion-clipart-xl.png"
         primary

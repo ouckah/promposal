@@ -154,7 +154,7 @@ export default function Home()
         <div className="flex flex-col justify-around items-center text-center w-full h-[58em] bg-pink-200 p-5">
           <h1 className='w-2/3 text-pink-400 font-bold text-6xl'>Prom Confirmation Ticket / Review</h1>
           <div className="flex flex-col items-center gap-5 text-center w-3/4 h-5/6 bg-white p-5 rounded-3xl shadow-xl">
-            <img className="h-24" src="https://cdn.pixabay.com/photo/2018/02/19/20/28/abstract-3166168__480.png"/>
+            <img className="h-24" src="https://cdn.pixabay.com/photo/2018/02/19/20/28/abstract-3166168__480.png" alt=""/>
             <h1 className='w-2/3 text-black font-bold text-4xl underline'>
               Thank You For Your Confirmation!
             </h1>
@@ -182,7 +182,7 @@ export default function Home()
             <h3 className='w-2/3 text-black opacity-90 font-bold text-2xl'>
               ˘• Dinner • Photos • Prom • Post-Prom •˘
             </h3>
-            <img className="h-24" src="https://cdn.pixabay.com/photo/2018/02/19/20/28/abstract-3166168__480.png"/>
+            <img className="h-24" src="https://cdn.pixabay.com/photo/2018/02/19/20/28/abstract-3166168__480.png" alt=""/>
           </div>
         </div>
         : 

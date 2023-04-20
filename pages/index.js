@@ -95,7 +95,7 @@ export default function Home()
       />
 
       <div className="flex flex-row justify-around items-center text-center w-full h-96 bg-pink-50 px-5 pt-5">
-        <h1 className='w-2/3 text-pink-400 font-bold text-6xl'>If I'm C would you be my C++ to prom?</h1>
+        <h1 className='w-2/3 text-pink-400 font-bold text-6xl'>If I&apos;m C would you be my C++ to prom?</h1>
       </div>
 
       <div className="flex flex-row justify-around items-start text-center w-full h-36 bg-pink-50 pb-5">
@@ -180,7 +180,7 @@ export default function Home()
               Events
             </h2>
             <h3 className='w-2/3 text-black opacity-90 font-bold text-2xl'>
-              ˘• Dinner • Photos • Prom • Post-Prom •˘
+              • Dinner • Photos • Prom • Post-Prom •
             </h3>
             <img className="h-24" src="https://cdn.pixabay.com/photo/2018/02/19/20/28/abstract-3166168__480.png" alt=""/>
           </div>
